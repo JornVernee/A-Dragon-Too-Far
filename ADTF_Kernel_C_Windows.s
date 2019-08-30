@@ -1,4 +1,5 @@
 .include "ADTF_Macros.s"
+.file "ADTF_Kernel_C_Windows.s"
 
 #I thought the following might be platform specific.
 #I searched around for how to use win32 interupts, but they are platform specific too.
